@@ -583,7 +583,7 @@ th {
   font-size: 20px;
 }
 .cover-wrapper .cover-body .logo {
-  max-height: 750px;
+  max-height: 500px;
   max-width: calc(100% - 4 * 16px);
 }
 @media screen and (min-height: 1024px) {
