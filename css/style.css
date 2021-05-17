@@ -2934,9 +2934,6 @@ article#arc {
   margin-bottom: 32px;
   padding-bottom: 64px;
 }
-article#arc .all-arcs {
-  display: block;
-}
 article#arc .timenode:before,
 article#arc .timenode:after {
   margin-left: 12px;
